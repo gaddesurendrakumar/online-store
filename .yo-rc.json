@@ -28,18 +28,13 @@
     "clientThemeVariant": "primary",
     "useSass": true,
     "clientPackageManager": "npm",
-    "testFrameworks": [
-      "protractor"
-    ],
+    "testFrameworks": ["protractor"],
     "jhiPrefix": "jhi",
     "entitySuffix": "",
     "dtoSuffix": "DTO",
     "otherModules": [],
     "enableTranslation": true,
     "nativeLanguage": "en",
-    "languages": [
-      "en",
-      "ar-ly"
-    ]
+    "languages": ["en", "ar-ly", "hi"]
   }
 }
